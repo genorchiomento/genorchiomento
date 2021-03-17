@@ -1,6 +1,6 @@
 # Genor Chiomento 
 
-## `Android Developer`
+### `Android Developer`
 
 > We were created to create!
 
@@ -9,8 +9,10 @@
   <img width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genorchiomento&hide=html&layout=compact&theme=radical" />
 </p>
 
-## Sobre desenvolvimento Android
 ----
+
+## Sobre desenvolvimento Android
+
 `Algumas das skills, experiências e conhecimentos com desenvolvimento Android Nativo` 
 
 - Experiência em desenvolvimento de aplicações nativas na plataforma Android, utilizando a linguagem Kotlin ou Java
