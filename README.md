@@ -41,3 +41,7 @@
 
 ----
 ### Apaixonado por tecnologia e em aprender.
+
+----
+
+[![Thumbnail de uma música do Youtube](https://i.ytimg.com/vi/Oextk-If8HQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Oextk-If8HQ)
