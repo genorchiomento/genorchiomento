@@ -1,6 +1,6 @@
 # Genor Chiomento 
 
-### `Android Developer`
+### `Android Developer & GameDev`
 
 > We were created to create!
 
