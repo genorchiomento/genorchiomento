@@ -4,6 +4,12 @@
 
 > We were created to create!
 
+ <div>
+  <a href="https://github.com/genorchiomento">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=genorchiomento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genorchiomento&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <p align="center">
   <img width="480px" src="https://github-readme-stats.vercel.app/api?username=genorchiomento&show_icons=true&theme=radical" />
   <img width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genorchiomento&hide=html&layout=compact&theme=radical" />
