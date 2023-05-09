@@ -1,8 +1,7 @@
 # Genor Chiomento 
 
-### `Android Developer & GameDev`
-
-> We were created to create!
+### `We were created to create!`
+<!-- > We were created to create! -->
 
 <div>
   <a href="https://github.com/genorchiomento">
@@ -17,7 +16,7 @@
   <a href="https://www.linkedin.com/in/genorchiomento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-----
+<!-- ----
 
 ## Sobre desenvolvimento Android
 
@@ -45,11 +44,7 @@
 
 - Experiência com CI/CD
 
-- Experiência com Flutter
+- Experiência com Flutter -->
 
 ----
 ### Apaixonado por tecnologia e em aprender.
-
-----
-
-[![Thumbnail de uma música do Youtube](https://i.ytimg.com/vi/Oextk-If8HQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Oextk-If8HQ)
