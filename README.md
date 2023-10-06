@@ -4,28 +4,7 @@
 
 #### Passion for technology and a continuous desire for learning.
 
-#### Throughout my journey, I have accumulated skills, experiences, and knowledge that reflect my passion for technology:
-
-- 🛠 Development of REST APIs using JAVA/Kotlin with Spring Boot
-- 🐳 Experience with Docker to ensure standardized and agile environments
-- 💌 Familiarity with Kafka for efficient messaging
-- ⚙️ Knowledge in Kubernetes for container orchestration
-- 🔗 Creation and management of API Gateway with Kong and Kubernetes
-- 📜 Proficiency in git and version control tools
-- 🚀 Experience in CI/CD, driving continuous quality integration
-- 🌍 Basic understanding of Terraform and Ansible for structured automation
-- 🛡️ Knowledge in GitOps, optimizing deployment, management, and monitoring of containerized projects
-- 🧠 Focus on a mindset of quality, security, performance, and scalability, and their impact on releases
-- 🏁 Experience with agile methodologies, from Kanban to Scrum, mastering Sprint Planning, Daily Meeting, Review, and Retrospective
-- 📱 Development of native applications on the Android platform, using Kotlin or Java
-- 📚 Profound knowledge of widely recognized Android libraries from both Google and third parties
-- 📊 Experience in Integration with RESTful APIs in JSON
-- 💡 Guided by exemplary UX/UI practices for aesthetic and functional results
-- 🚀 Experience with Android Jetpack, elevating applications to a superior level
-- 🎮 Experience with Google Play, including analysis, publication, and management of applications at various stages
-- 🌟 Familiarity with the Flutter framework to embrace versatility
-- 🌐 Technical English proficiency, facilitating global collaboration
-
+#### Throughout my journey, I have accumulated skills, experiences, and knowledge that reflect my passion for technology
   
 ----
 
