@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Kotlin, Java, DevOps, Android, Robotics, Games and SO**
 
-- 👨‍💻 More at [genorchiomento.dev](https://genorchiomento.dev)
+- 👨‍💻 More at [genorchiomento.dev](https://genorchiomento.github.io/)
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
