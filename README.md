@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Genor Chiomento</h1>
 
-- 🔥 Sênior Developer 
+- 🔥 Senior Software Engineer
 
 - 🔭 I’m currently working at [CISP](https://github.com/cisp-it/)
 
