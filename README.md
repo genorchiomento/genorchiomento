@@ -4,7 +4,7 @@ Hi 👋, I'm Genor Chiomento
 [![Linkedin Badge](https://img.shields.io/badge/Genor%20Chiomento-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/genorchiomento/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@genorchiomento-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=genorchiomento "Follow on Twitter")
 
- Developer and a problem solver
+Software Engineer
 
 - 🔭 I’m currently working at [CISP](https://github.com/cisp-it/)
 - 🌱 I’m currently learning Arduino, NextJS with Vercel and Postgres
