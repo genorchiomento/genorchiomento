@@ -16,8 +16,8 @@ Hi 👋, I'm Genor Chiomento
 
 <div align="center">
   <a href="https://github.com/genorchiomento">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=genorchiomento&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genorchiomento&hide=CSS,Jinja,Shell,Vim%20Script,HTML,GDB&langs_count=5&layout=compact&theme=dracula&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=genorchiomento&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genorchiomento&hide=CSS,Jinja,Shell,Vim%20Script,HTML,GDB&langs_count=5&layout=compact&theme=dracula&count_private=true"/>
   </a>
 </div>
 
