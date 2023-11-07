@@ -1,72 +1,73 @@
-<h1 align="center">Hi, I'm Genor Chiomento</h1>
+Hi 👋, I'm Genor Chiomento
 
-- 🔥 Software Engineer
+[![Gmail Badge](https://img.shields.io/badge/-genor.chiomento@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:genor.chiomento@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/Genor%20Chiomento-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/genorchiomento/ "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@genorchiomento-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=genorchiomento "Follow on Twitter")
+
+ Developer and a problem solver
 
 - 🔭 I’m currently working at [CISP](https://github.com/cisp-it/)
-
+- 🌱 I’m currently learning Arduino, NextJS with Vercel and Postgres
 - ▶️ We were created to create!
-
 - 💬 Ask me about **Kotlin, Java, DevOps, Android, Robotics, Games and SO**
+- 👨‍💻 More at [genorchiomento.github.io](https://genorchiomento.github.io/)
 
-- 👨‍💻 More at [genorchiomento.dev](https://genorchiomento.github.io/)
-<br><br>
+##
+
+<div align="center">
+  <a href="https://github.com/genorchiomento">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=genorchiomento&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genorchiomento&hide=CSS,Jinja,Shell,Vim%20Script,HTML,GDB&langs_count=5&layout=compact&theme=dracula&count_private=true"/>
+  </a>
+</div>
+
+##
 
 ## 🛠 &nbsp;Tech Stack
+- 🪨 Back-end：
+  ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-circle&logo=kotlin&logoColor=white)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-white?style=flat-circle&logo=openjdk&logoColor=black)&nbsp;
+  ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-circle&logo=spring&logoColor=white)&nbsp;
+  
+- 💻 Front-end：
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-circle&logo=html5&logoColor=white)&nbsp;
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-circle&logo=css3&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-circle&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-<!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp; -->
+- 🛠️ Tools：
+  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-circle&logo=docker&logoColor=white)&nbsp;
+  ![Git](https://img.shields.io/badge/Git-grey?style=flat-circle&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-circle&logo=github&logoColor=white)&nbsp;
+  ![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat-circle&logo=markdown)&nbsp;
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea)&nbsp;
+  ![VS Code](https://img.shields.io/badge/VSCode-gray.svg?logo=visualstudiocode)&nbsp;
+  ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-circle&logo=macos&logoColor=F0F0F0)&nbsp;
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-circle&logo=linux&logoColor=black)&nbsp;
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-circle&logo=windows&logoColor=white)&nbsp;
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-circle&logo=notion&logoColor=white)&nbsp;
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-<!-- ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
+- ☁️ Cloud：
+  ![AWS](https://img.shields.io/badge/AWS-grey?&logo=Amazon-AWS&logoColor=F90)&nbsp;
 
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp; -->
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-<!-- ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp; -->
+- 🎲 Database：
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-circle&logo=mysql&logoColor=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-circle&logo=mongodb&logoColor=white)&nbsp;
 
+- 🚀 Others:
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-circle&logo=android&logoColor=white)&nbsp;
+  ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=flat-circle&logo=swagger&logoColor=white)&nbsp;
+  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-circle&logo=Gradle&logoColor=white)&nbsp;
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-circle&logo=postman&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=flat-circle&logo=selenium&logoColor=white)&nbsp;
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-<!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)&nbsp; -->
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-<!-- ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp; -->
+- 🌱 learning：
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-circle&logo=Arduino&logoColor=white)&nbsp;
+  ![Next JS](https://img.shields.io/badge/NextJS-black?style=flat-circle&logo=next.js&logoColor=white)&nbsp;
+  ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-circle&logo=postgresql&logoColor=white)&nbsp;
+  ![Vercel](https://img.shields.io/badge/Vercel-green?style=flat-circle&logo=Vercel&logoColor=white)&nbsp;
 
-<!-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp; -->
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
+## 🤔 Can I help with something?
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
-<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp; -->
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-<br><br>
-
-## Contact
-
-<p align="left">
-<a href="https://www.linkedin.com/in/genorchiomento/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"/>
-</a>
-<a href="https://twitter.com/genorchiomento" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white" alt="twitter"/>  
-</a>
-<a href="https://instagram.com/sougenor" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="instagram"/>
-</a>
-</a>
-</p>
+- 💬 Did you find something interesing? Drop me a message
+- 🐞 Got stuck? Create an issue
+- ⭐ Giving a star for something you did like help a lot
