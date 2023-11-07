@@ -40,6 +40,7 @@ Hi 👋, I'm Genor Chiomento
   ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-circle&logo=github&logoColor=white)&nbsp;
   ![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat-circle&logo=markdown)&nbsp;
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea)&nbsp;
+  
   ![VS Code](https://img.shields.io/badge/VSCode-gray.svg?logo=visualstudiocode)&nbsp;
   ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-circle&logo=macos&logoColor=F0F0F0)&nbsp;
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-circle&logo=linux&logoColor=black)&nbsp;
