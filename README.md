@@ -7,7 +7,7 @@ Hi 👋, I'm Genor Chiomento
 Software Engineer
 
 - 🔭 I’m currently working at [CISP](https://github.com/cisp-it/)
-- 🌱 I’m currently learning Arduino, NextJS with Vercel and Postgres
+- 🌱 I’m currently learning NextJS with Vercel
 - ▶️ We were created to create!
 - 💬 Ask me about **Kotlin, Java, DevOps, Android, Robotics, Games and SO**
 - 👨‍💻 More at [genorchiomento.github.io](https://genorchiomento.github.io/)
@@ -62,9 +62,7 @@ Software Engineer
   ![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=flat-circle&logo=selenium&logoColor=white)&nbsp;
 
 - 🌱 learning：
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-circle&logo=Arduino&logoColor=white)&nbsp;
   ![Next JS](https://img.shields.io/badge/NextJS-black?style=flat-circle&logo=next.js&logoColor=white)&nbsp;
-  ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-circle&logo=postgresql&logoColor=white)&nbsp;
   ![Vercel](https://img.shields.io/badge/Vercel-green?style=flat-circle&logo=Vercel&logoColor=white)&nbsp;
 
 ## 🤔 Can I help with something?
