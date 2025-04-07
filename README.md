@@ -6,8 +6,8 @@ Hi 👋, I'm Genor Chiomento
 
 Software Engineer
 
-- 🔭 I’m currently working at [CISP](https://github.com/cisp-it/)
-- 🌱 I’m currently learning NextJS with Vercel
+- 🔭 I’m currently working at [UOL](https://www.uol.com.br/)
+- 🌱 I’m currently learning NodeJS
 - ▶️ We were created to create!
 - 💬 Ask me about **Kotlin, Java, DevOps, Android, Robotics, Games and SO**
 - 👨‍💻 More at [genorchiomento.github.io](https://genorchiomento.github.io/)
@@ -62,6 +62,7 @@ Software Engineer
   ![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=flat-circle&logo=selenium&logoColor=white)&nbsp;
 
 - 🌱 learning：
+  ![NodeJS](https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white)&nbsp;
   ![Next JS](https://img.shields.io/badge/NextJS-black?style=flat-circle&logo=next.js&logoColor=white)&nbsp;
   ![Vercel](https://img.shields.io/badge/Vercel-green?style=flat-circle&logo=Vercel&logoColor=white)&nbsp;
 
