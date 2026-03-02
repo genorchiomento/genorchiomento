@@ -6,10 +6,10 @@ Hi 👋, I'm Genor Chiomento
 
 Software Engineer
 
-- 🔭 I’m currently working at [UOL](https://www.uol.com.br/)
+- 🔭 I’m currently working at [UOL](https://github.com/orgs/uol-universo-online/)
 - 🌱 I’m currently learning NodeJS
 - ▶️ We were created to create!
-- 💬 Ask me about **Kotlin, Java, DevOps, Android, Robotics, Games and SO**
+- 💬 Ask me about **Kotlin, Java, DevOps, Android, Robotics, Games, Architecture, AI and SO**
 - 👨‍💻 More at [genorchiomento.github.io](https://genorchiomento.github.io/)
 
 ##
